@@ -1,0 +1,75 @@
+<h1> 	My First Heading 	</h1>
+<p> 	My first paragraph. 	</p>
+<br> 	none 	none
+<html> 	Defines the root of an HTML document
+<body> 	Defines the document's body
+<h1> to <h6> 	Defines HTML headings
+<html> 	Defines the root of an HTML document
+<body> 	Defines the document's body
+<h1> to <h6> 	Defines HTML headings
+<p> 	Defines a paragraph
+<hr> 	Defines a thematic change in the content
+<br> 	Inserts a single line break
+<pre> 	Defines pre-formatted text
+
+styles..
+
+    Use the style attribute for styling HTML elements
+    Use background-color for background color
+    Use color for text colors
+    Use font-family for text fonts
+    Use font-size for text sizes
+    Use text-align for text alignment
+
+formating:
+    
+ <b> 	Defines bold text
+<em> 	Defines emphasized text 
+<i> 	Defines a part of text in an alternate voice or mood
+<small> 	Defines smaller text
+<strong> 	Defines important text
+<sub> 	Defines subscripted text
+<sup> 	Defines superscripted text
+<ins> 	Defines inserted text
+<del> 	Defines deleted text
+<mark> 	Defines marked/highlighted text
+
+
+Quotation
+--------------
+<abbr> 	Defines an abbreviation or acronym
+<address> 	Defines contact information for the author/owner of a document
+<bdo> 	Defines the text direction
+<blockquote> 	Defines a section that is quoted from another source
+<cite> 	Defines the title of a work
+<q> 	Defines a short inline
+
+
+CSS
+_______
+
+    Use the HTML style attribute for inline styling
+    Use the HTML <style> element to define internal CSS
+    Use the HTML <link> element to refer to an external CSS file
+    Use the HTML <head> element to store <style> and <link> elements
+    Use the CSS color property for text colors
+    Use the CSS font-family property for text fonts
+    Use the CSS font-size property for text sizes
+    Use the CSS border property for borders
+    Use the CSS padding property for space inside the border
+    Use the CSS margin property for space outside the border
+<style> 	Defines style information for an HTML document
+<link> 	Defines a link between a document and an external resource
+
+
+Link:
+-------
+
+    Use the <a> element to define a link
+    Use the href attribute to define the link address
+    Use the target attribute to define where to open the linked document
+    Use the <img> element (inside <a>) to use an image as a link
+    Use the mailto: scheme inside the href attribute to create a link that opens the user's email program
+
+
+
